@@ -10,7 +10,7 @@ module.exports = {
     // for a list of supported networks take a look at https://jaketrent.github.io/react-social-icons/
     networks: [
       "https://www.rootedschool.org/",
-      "https://github.com/SaidiElle/RootedProjectBlogPost",
+      "https://github.com/rooted-interns/blog",
       "mailto:rootedinsights@gmail.com",
     ],
     about: '<p>This page was created with the purpose to enhance  \

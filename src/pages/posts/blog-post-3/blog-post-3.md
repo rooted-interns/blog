@@ -5,7 +5,7 @@ description: "Hello, my name is Saidi Zelaya. I am a upcoming 11th grader at Roo
 cover: "saidiblobpost.jpg"
 ---
 
-Hi again, my name is Saidi. As I said before, Rooted
+Hi again, my name is Saidi. I am a high school student at Rooted School. I am about to enter my junior year of high school. My hobbies are watching series on Netflix, buying books even though I don't get enough time to read them, listening to. 
 
 My internship at Lucid has been splendid so far! At first I remembered that we did research about what Lucid does, the concept was still confusing however we got the hang of everything when we got there.
 Lucid helps connect companies with real human answers on a global scale. Lucid does so with surveys, they have surveys before the actual survey of the company. The survey is called a pre-screener, the pre-screener asks the suppliers questions related to what kind of people the company is looking for. The whole Lucid work is now very understandable to me.

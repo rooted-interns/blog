@@ -44,8 +44,10 @@ const HeaderArea = ({ data, styles }: IHeaderArea) => (
   <div
     style={{
       backgroundImage: THEME.index.header.backgroundImage,
+    //  backgroundImage: "url('rootedclass.png')",
       backgroundPosition: "center",
       backgroundSize: "cover",
+    //  backgroundColor: "hsla(120, 60%, 70%, 0.3)",
     }}
   >
     <AboutButton />

@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Rooted Interns`,
     author: {
-      name: "Rooted Insights",
+      name: "Rooted Interns",
       image: "/img/rooted.png",
       biography: "On this page, we have experiences from Rooted Students that \
         were involded in our Summer Internship program.",
@@ -21,7 +21,7 @@ module.exports = {
     We would like to thank Marcus Carter for helping us and guiding us along this journey. \
      \
     If you want to check the documentation for this website, please check \
-    <a href="https://github.com/SaidiElle/RootedProjectBlogPost">here</a>. \
+    <a href="https://github.com/rooted-interns/blog">here</a>. \
     </p> \
     ',
   },

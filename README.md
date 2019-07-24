@@ -1,11 +1,11 @@
 <h1 align="center">
-    <img alt="haezl" title="haezl" src="static/img/me.png" width="100"> </br>
-    gatsby-starter-haezl
+    <img alt="haezl" title="haezl" src="static/img/rooted.png" width="400"> </br>
+    Rooted Interns
 </h1>
 
 <h4 align="center">
-A lightweight, mobile first blog starter with infinite scroll and Material-UI design elements 
-for <a href="https://github.com/gatsbyjs/gatsby" target="_blank">Gatsby</a>.
+On this page, we have experiences from Rooted Students that were
+    involded in our Summer Internship program.
 </h4>
 
 ## Table of contents
@@ -64,7 +64,7 @@ for <a href="https://github.com/gatsbyjs/gatsby" target="_blank">Gatsby</a>.
     _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql)._
 
     Open the `my-blog` directory in your code editor of choice and edit `src/pages/index.tsx`. Save your changes and the browser will update in real time!
-
+    
 ## Folder Structure
 
 A quick look at the top-level files and directories you'll see in a Gatsby project.

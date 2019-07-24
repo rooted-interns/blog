@@ -1,11 +1,11 @@
 <h1 align="center">
-    <img alt="haezl" title="haezl" src="static/img/rooted.png" width="100"> </br>
-    gatsby-starter-haezl
+    <img alt="haezl" title="haezl" src="static/img/rooted.png" width="400"> </br>
+    Rooted Interns
 </h1>
 
 <h4 align="center">
-A lightweight, mobile first blog starter with infinite scroll and Material-UI design elements 
-for <a href="https://github.com/gatsbyjs/gatsby" target="_blank">Gatsby</a>.
+On this page, we have experiences from Rooted Students that were
+    involded in our Summer Internship program.
 </h4>
 
 ## Table of contents

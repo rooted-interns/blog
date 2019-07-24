@@ -5,8 +5,8 @@ const THEME = {
       backgroundColor: "#eeeeee",
     },
     showMoreButton: {
-      color: "#ffffff",
-      borderColor: "#ffffff",
+      color: "#6e8a6a",
+      borderColor: "#6e8a6a",
       backgroundColor: "none",
       width: 130,
     },
@@ -20,18 +20,19 @@ const THEME = {
   index: {
     layout: {
       cardSectionMaxWidth: 800,
-      backgroundColor: "#eeeeee",
+      backgroundColor: "#6e8a6a",
     },
     header: {
-      background: "rgb(110,138,106)",
-      backgroundImage: "linear-gradient(180deg, rgba(110,138,106,1) 14%, rgba(238,238,238,1) 93%)",
+      background: "rgb(238,238,238)",
+      backgroundImage: "linear-gradient(180deg, rgba(238,238,238,1) 14%, rgba(110,138,106,1) 93%)",
     },
     aboutButton: {
-      color: "#ffffff",
-      borderColor: "#ededed",
+      color: "#6e8a6a",
+      borderColor: "#6e8a6a",
       backgroundColor: "none",
       borderRadius: 2,
       width: 100,
+      textDecoration: "none",
     },
   },
   author: {
@@ -62,8 +63,8 @@ const THEME = {
     backgroundColor: "white",
   },
   networkButton: {
-    color: "white",
-    backgroundColor: "#6e8a6a",
+    color: "#6e8a6a",
+    backgroundColor: "#ffffff",
     width: 45,
     height: 45,
   },

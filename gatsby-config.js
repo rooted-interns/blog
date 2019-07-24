@@ -72,7 +72,7 @@ module.exports = {
         name: "Rooted Insights",
         short_name: "rooted",
         start_url: "/",
-        background_color: "#eeeeee",
+        background_color: "#6e8a6a",
         theme_color: "#ffffff",
         display: "standalone",
         icon: "static/img/rooted.png",

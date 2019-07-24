@@ -1,17 +1,19 @@
 <h1 align="center">
+    <img alt="rootedinterns" title="haezl" src="static/img/rooted.png" width="400"> </br>
     <img alt="haezl" title="haezl" src="static/img/rooted.png" width="400"> </br>
-    Rooted Interns
+    Rooted Interns 
 </h1>
 
 <h4 align="center">
-On this page, we have experiences from Rooted Students that were
-    involded in our Summer Internship program.
+On this page, we have experiences from Rooted Students that were involved in our Summer Internship program.
 </h4>
+
 
 ## Table of contents
 
 - [Features](#features)
 - [Quick Start](#quick-start)
+- [Publish Content](#publish-content)
 - [Folder Structure](#folder-structure)
 - [License](#license)
 
@@ -64,7 +66,30 @@ On this page, we have experiences from Rooted Students that were
     _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql)._
 
     Open the `my-blog` directory in your code editor of choice and edit `src/pages/index.tsx`. Save your changes and the browser will update in real time!
-    
+
+
+## Publish Content
+
+These are a set of instructions on how to publish content on the site.
+
+     1. Navigate to `src/pages` through atom.
+     2. Copy `templates` folder and its content.
+     3. Paste into `src/pages/posts`
+     4. Edit folder name.
+         - You can change the folder name to however you'd like.
+     5. Edit markdown(.md) file name and content input and photos into folder.
+         - You can name it however you'd like.
+     6. Save changes. (in atom)
+     7. Commit changes. (in atom)
+     7. Push changes. (in atom)
+     8. PULL REQUEST
+         - Nav to Github.
+     9. Wait for staging deploy to complete(at least 5min)(this is a now.sh deploy.)
+     10. Request Reviewer
+         - Peer or Marcus, someone who can check the site.
+     11. Once approved, - Merge to master.
+
+
 ## Folder Structure
 
 A quick look at the top-level files and directories you'll see in a Gatsby project.

@@ -2,13 +2,13 @@ const THEME = {
   blogPost: {
     layout: {
       cardMaxWidth: 1000,
-      backgroundColor: "#eeeeee",
+      backgroundColor: "#cedccc",
     },
     showMoreButton: {
-      color: "#ffffff",
-      borderColor: "#ffffff",
+      color: "#6e8a6a",
+      borderColor: "#6e8a6a",
       backgroundColor: "none",
-      width: 130,
+      width: 131,
     },
   },
   blogListElement: {
@@ -20,18 +20,19 @@ const THEME = {
   index: {
     layout: {
       cardSectionMaxWidth: 800,
-      backgroundColor: "#eeeeee",
+      backgroundColor: "#cedccc",
     },
     header: {
-      background: "rgb(110,138,106)",
-      backgroundImage: "linear-gradient(180deg, rgba(110,138,106,1) 14%, rgba(238,238,238,1) 93%)",
+      background: "rgb(238,238,238)",
+      backgroundImage: "linear-gradient(180deg, rgba(238,238,238,1) 14%, rgba(206,220,204,1) 100%)",
     },
     aboutButton: {
-      color: "#ffffff",
-      borderColor: "#ededed",
+      color: "#6e8a6a",
+      borderColor: "#6e8a6a",
       backgroundColor: "none",
       borderRadius: 2,
       width: 100,
+      textDecoration: "none",
     },
   },
   author: {
@@ -41,12 +42,12 @@ const THEME = {
       height: 100,
     },
     title: {
-      color: "#ededed",
+      color: "#6e8a6a",
       fontSize: 40,
       fontweight: 900,
     },
     desc: {
-      color: "#f7f7f7",
+      color: "#6e8a6a",
       fontSize: 26,
       maxWidth: 500,
      fontweight: 900,
@@ -62,7 +63,7 @@ const THEME = {
     backgroundColor: "white",
   },
   networkButton: {
-    color: "white",
+    color: "#ffffff",
     backgroundColor: "#6e8a6a",
     width: 45,
     height: 45,

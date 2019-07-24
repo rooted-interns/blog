@@ -23,7 +23,9 @@ const THEME = {
       backgroundColor: "#eeeeee",
     },
     header: {
-      backgroundImage: "url('rootedclasslayout.png')",
+      backgroundImage: "url('rootedclass.png')",
+
+
     },
 
     aboutButton: {

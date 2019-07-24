@@ -1,11 +1,11 @@
 <h1 align="center">
     <img alt="rootedinterns" title="haezl" src="static/img/rooted.png" width="400"> </br>
-    Rooted Interns
+    <img alt="haezl" title="haezl" src="static/img/rooted.png" width="400"> </br>
+    Rooted Interns 
 </h1>
 
 <h4 align="center">
-On this page, we have experiences from Rooted Students that were
-    involved in our Summer Internship program.
+On this page, we have experiences from Rooted Students that were involved in our Summer Internship program.
 </h4>
 
 
@@ -67,6 +67,7 @@ On this page, we have experiences from Rooted Students that were
 
     Open the `my-blog` directory in your code editor of choice and edit `src/pages/index.tsx`. Save your changes and the browser will update in real time!
 
+
 ## Publish Content
 
 These are a set of instructions on how to publish content on the site.
@@ -87,6 +88,7 @@ These are a set of instructions on how to publish content on the site.
      10. Request Reviewer
          - Peer or Marcus, someone who can check the site.
      11. Once approved, - Merge to master.
+
 
 ## Folder Structure
 

@@ -65,6 +65,25 @@ On this page, we have experiences from Rooted Students that were
 
     Open the `my-blog` directory in your code editor of choice and edit `src/pages/index.tsx`. Save your changes and the browser will update in real time!
     
+## Creating Content
+We created a set of steps to guide you in hot to create content and publish it to your site.
+
+   1. Nagivate to `src/pages` through atom.
+   2. Copy `template` folder and its content. 
+   3. Paste into `scr/pages/posts`
+   4. Edit the folder name 
+       - The folder name can be named however you'd like. 
+   5. Edit the `mardown.md` file name and content input and photos into the folder. 
+       - Again, the file can be named however you'd like. You have to put `.md` after the file name. 
+   6. Save it.
+   7. Commit changes + Push changes. 
+   8. Create a pull request. (nav to github)
+   9. Wait for staging deploy to complete. (at least 5min)(This is a Now.sh deploy)
+   10. Request a reviewer. (Someone who can check the site)
+   11. Once approved, merge to master. 
+   
+
+    
 ## Folder Structure
 
 A quick look at the top-level files and directories you'll see in a Gatsby project.

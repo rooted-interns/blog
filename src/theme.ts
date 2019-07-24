@@ -8,7 +8,7 @@ const THEME = {
       color: "#6e8a6a",
       borderColor: "#6e8a6a",
       backgroundColor: "none",
-      width: 130,
+      width: 131,
     },
   },
   blogListElement: {

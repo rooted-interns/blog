@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Rooted Insights`,
+    title: `Rooted Interns`,
     author: {
-      name: "Rooted Insights",
+      name: "Rooted Interns",
       image: "/img/rooted.png",
       biography: "On this page, we have experiences from Rooted Students that \
         were involded in our Summer Internship program.",
@@ -21,7 +21,7 @@ module.exports = {
     We would like to thank Marcus Carter for helping us and guiding us along this journey. \
      \
     If you want to check the documentation for this website, please check \
-    <a href="https://github.com/SaidiElle/RootedProjectBlogPost">here</a>. \
+    <a href="https://github.com/rooted-interns/blog">here</a>. \
     </p> \
     ',
   },
@@ -73,10 +73,9 @@ module.exports = {
         short_name: "rooted",
         start_url: "/",
         background_color: "#eeeeee",
-        theme_color: "#529c75",
+        theme_color: "#ffffff",
         display: "standalone",
         icon: "static/img/rooted.png",
-        // box-shadow: none,
         include_favicon: true,
       },
     },
@@ -110,7 +109,7 @@ module.exports = {
       resolve: `gatsby-plugin-material-ui`,
       options: {
         theme: {
-          primaryColor: "#529c75",
+          primaryColor: "#ffffff",
         },
       },
     },

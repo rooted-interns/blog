@@ -1,6 +1,6 @@
 ---
 title: "Rooted Internship Program"
-date: "2019-04-10"
+date: "2019-07-28"
 description: "Our students were stationed amongst our partners throughout New Orleans and applied their knowledge from school into the real world. They may have faced many challenges, but in the end they overpowered their resistance. In 2018, students interned and volunteered with Electric Girls, Code Nola, and Entrescan. For our second year, some students received hands on help with Entrescan. While other students interned in companies such as Search Influence and Lucid."
 cover: "internshiprogram.jpeg"
 ---

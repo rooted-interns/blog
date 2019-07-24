@@ -13,6 +13,7 @@ On this page, we have experiences from Rooted Students that were
 
 - [Features](#features)
 - [Quick Start](#quick-start)
+- [Publish Content](#publish-content)
 - [Folder Structure](#folder-structure)
 - [License](#license)
 
@@ -66,7 +67,7 @@ On this page, we have experiences from Rooted Students that were
 
     Open the `my-blog` directory in your code editor of choice and edit `src/pages/index.tsx`. Save your changes and the browser will update in real time!
 
-##Publish Content
+## Publish Content
 
 These are a set of instructions on how to publish content on the site.
 
@@ -86,7 +87,7 @@ These are a set of instructions on how to publish content on the site.
      10. Request Reviewer
          - Peer or Marcus, someone who can check the site.
      11. Once approved, - Merge to master.
-     
+
 ## Folder Structure
 
 A quick look at the top-level files and directories you'll see in a Gatsby project.

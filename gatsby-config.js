@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Rooted Insights`,
+    title: `Rooted Interns`,
     author: {
       name: "Rooted Insights",
       image: "/img/rooted.png",
@@ -73,7 +73,7 @@ module.exports = {
         short_name: "rooted",
         start_url: "/",
         background_color: "#eeeeee",
-        theme_color: "#529c75",
+        theme_color: "#ffffff",
         display: "standalone",
         icon: "static/img/rooted.png",
         include_favicon: true,
@@ -109,7 +109,7 @@ module.exports = {
       resolve: `gatsby-plugin-material-ui`,
       options: {
         theme: {
-          primaryColor: "#529c75",
+          primaryColor: "#ffffff",
         },
       },
     },

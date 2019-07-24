@@ -5,8 +5,8 @@ const THEME = {
       backgroundColor: "#eeeeee",
     },
     showMoreButton: {
-      color: "#6e8a6a",
-      borderColor: "#6d8f7f",
+      color: "#ffffff",
+      borderColor: "#ffffff",
       backgroundColor: "none",
       width: 130,
     },
@@ -23,14 +23,12 @@ const THEME = {
       backgroundColor: "#eeeeee",
     },
     header: {
-      backgroundImage: "url('rootedclass.png')",
-
-
+      background: "rgb(110,138,106)",
+      backgroundImage: "linear-gradient(180deg, rgba(110,138,106,1) 14%, rgba(238,238,238,1) 93%)",
     },
-
     aboutButton: {
-      color: "#6e8a6a",
-      borderColor: "rgb(126, 158, 135)",
+      color: "#ffffff",
+      borderColor: "#ededed",
       backgroundColor: "none",
       borderRadius: 2,
       width: 100,
@@ -38,17 +36,17 @@ const THEME = {
   },
   author: {
     avatar: {
-//    backgroundcolor: "#6e8a6a",
+     backgroundcolor: "#6e8a6a",
       width: 350,
       height: 100,
     },
     title: {
-      color: "#696969",
+      color: "#ededed",
       fontSize: 40,
       fontweight: 900,
     },
     desc: {
-      color: "black",
+      color: "#f7f7f7",
       fontSize: 26,
       maxWidth: 500,
      fontweight: 900,
@@ -57,6 +55,7 @@ const THEME = {
   callToActionButton: {
     width: 25,
     height: 25,
+  //  color: "#ffffff",
   },
   fabButton: {
     color: "#6d8f7f",
